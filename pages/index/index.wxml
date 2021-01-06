@@ -1,0 +1,7 @@
+<!--miniprogram/pages/index/index.wxml-->
+<button bindtap="addSetFinal">Add Set</button>
+<button bindtap="addList">Add List</button>
+
+<button bindtap="removeList">Remove List</button>
+
+<button bindtap="getSetOpenID">Get Current Set OpenID</button>

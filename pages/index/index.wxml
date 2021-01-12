@@ -3,5 +3,8 @@
 <button bindtap="addList">Add List</button>
 
 <button bindtap="removeList">Remove List</button>
+<button bindtap="removeSetAndList">Remove Set and List</button>
+
+<button bindtap="removeListBySetID">removeListBySetID</button>
 
 <button bindtap="getSetOpenID">Get Current Set OpenID</button>
